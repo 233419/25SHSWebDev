@@ -1,4 +1,4 @@
-/* General Styling */
+@import url(rainbow.css);/* General Styling */
 body {
     font-family: Arial, Helvetica, sans-serif;
 }
